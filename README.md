@@ -39,8 +39,8 @@ It includes insights into:
 
 ## 📎 Project Files
 
-- [🔽 Download PBIX File](./Blinkit-Sales-Dashboard.pbix) – Open in Power BI Desktop  
-- (Optional) `dashboard-preview.png` – Visual snapshot
+- [🔽 Download Power BI Dashboard (PBIX)](./powerbi-blinkit-sales-dashboard.pbix)
+
 
 > ⚠️ Power BI dashboards cannot be viewed directly on GitHub.  
 > 🖥️ **Download the `.pbix` file** and open in Power BI Desktop to explore the dashboard.
