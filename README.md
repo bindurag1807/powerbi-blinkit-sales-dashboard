@@ -37,9 +37,10 @@ It includes insights into:
 
 ---
 
-## 📎 Project Files
+## 📎 Project File
 
-- [🔽 Download Power BI Dashboard (PBIX)](./powerbi-blinkit-sales-dashboard.pbix)
+- [🔽 Download Power BI Dashboard](https://github.com/bindurag1807/powerbi-blinkit-sales-dashboard/raw/main/powerbi-blinkit-sales-dashboard.pbix)
+
 
 
 > ⚠️ Power BI dashboards cannot be viewed directly on GitHub.  
@@ -47,9 +48,7 @@ It includes insights into:
 
 ---
 
-## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./dashboard-preview.png)
 
 ---
 
